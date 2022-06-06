@@ -1,0 +1,13 @@
+.navbardiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    height: 40px;
+    align-items: center;
+    background-color: #eee;
+}
+
+.subdiv {
+    display: flex;
+    gap: 20px;
+}
